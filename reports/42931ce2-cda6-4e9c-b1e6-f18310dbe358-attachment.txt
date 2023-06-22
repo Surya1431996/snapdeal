@@ -1,0 +1,3 @@
+INFO     TestLogin:test_login.py:17 *****************TestLogin mandatory fileds started****************************
+INFO     TestLogin:test_login.py:20 *****************Title is valid****************************
+INFO     TestLogin:test_login.py:31 *****************Text is valid****************************

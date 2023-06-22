@@ -1,0 +1,3 @@
+INFO     TestLogin:test_login.py:74 *****************TestLogin all empty fileds started****************************
+INFO     TestLogin:test_login.py:77 *****************Title is valid****************************
+INFO     TestLogin:test_login.py:88 *****************Text is valid****************************

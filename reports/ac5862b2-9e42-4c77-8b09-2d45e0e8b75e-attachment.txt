@@ -1,0 +1,3 @@
+INFO     TestLogin:test_login.py:111 *****************TestLogin with register google mail started****************************
+INFO     TestLogin:test_login.py:114 *****************Title is valid****************************
+INFO     TestLogin:test_login.py:124 *****************Title is valid****************************

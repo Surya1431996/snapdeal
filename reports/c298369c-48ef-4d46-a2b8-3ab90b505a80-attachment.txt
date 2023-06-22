@@ -1,0 +1,1 @@
+INFO     TestLogin:test_productcheckout.py:84 *****************Test valid product with cod  started****************************
